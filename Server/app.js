@@ -15,5 +15,6 @@ app.listen(PORT,()=>{
 });
 
 app.delete('/del',(req,res)=>{
-    
+    res.send("delte");
 })
+asd
