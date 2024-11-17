@@ -1,3 +1,4 @@
 node_modules
-app.js
+Server
 .env
+package-lock.json
